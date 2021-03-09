@@ -5,7 +5,7 @@ using System.Text;
 namespace MyDictionaryProgram
 {
     public class Dictionary<Key,Value>
-    {
+    { 
         Key[] monthNumberArray;
         Value[] monthNameArray;
         public Dictionary()
